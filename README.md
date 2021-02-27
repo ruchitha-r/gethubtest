@@ -1,8 +1,9 @@
 Introduction to Json PowerDB
 
 Document Link-->
-http://login2explore.com/jpdb/docs.html 
 
+1. http://login2explore.com/jpdb/docs.html 
+2. http://login2explore.com/jpdb/resources/js/0.0.3/jpdb-commons.js 
 
 About JsonPowerDB:
 
@@ -31,6 +32,7 @@ Table Of Contents:
 
 
 Illustrations:
+
 
 JSON objects are surrounded by curly braces {}. JSON objects are written in key/value pairs. Keys must be strings, and values must be a valid JSON data type (string, number, object, array, boolean or null). Keys and values are separated by a colon.
 
@@ -64,5 +66,20 @@ All Dynamic web applications.
 7. Any software application that needs backend database.
 
 
+Project status: COMPLETED.
+
+Sources: API, NETBEANS,HTML,GITHUB.
+
+
+Other Information: Screenshots
+![image](https://user-images.githubusercontent.com/79717697/109378494-0cb04300-78f9-11eb-9c50-cc156651e581.png)
+
+![image](https://user-images.githubusercontent.com/79717697/109378590-dd4e0600-78f9-11eb-892c-5aba98f24355.png)
+
+![image](https://user-images.githubusercontent.com/79717697/109378614-0ff7fe80-78fa-11eb-8d10-552e88441d59.png)
+
+![image](https://user-images.githubusercontent.com/79717697/109378629-30c05400-78fa-11eb-90e7-58155d95302f.png)
+
+![image](https://user-images.githubusercontent.com/79717697/109378666-74b35900-78fa-11eb-867d-b3fa00a10365.png)
 
 
